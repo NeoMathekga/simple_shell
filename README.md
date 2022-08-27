@@ -13,6 +13,8 @@ The shell works by being compiled using GCC 4.8.5 compiler or later versions. Th
 
 * Output: prompt to terminal: `$ `
 
+### Compilation
+All files will be compiled on Ubuntu 20.04 LTS using `gcc`, using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
 
 ### Authors
 * Neo Mathekga- https://github.com/NeoMathekga
