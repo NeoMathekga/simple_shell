@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * prompt - checks mode and prints prompt if in interactive mode
